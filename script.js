@@ -78,5 +78,5 @@ function handleYesClick() {
       confettiContainer.innerHTML = '';
       eventForm.classList.add('show');
       container.classList.add('noShow');
-    }, 3000); // Adjust the delay (in milliseconds) based on your animation duration
+    }, 7000); // Adjust the delay (in milliseconds) based on your animation duration
   }
