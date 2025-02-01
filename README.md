@@ -1,6 +1,6 @@
-# Be my Valantine
+# Be my Valentine
 
-A Single Page Website to ask a desired partner to be your valantine
+A Single Page Website to ask a desired partner to be your valentine
 
 # The Main Functionality
 
