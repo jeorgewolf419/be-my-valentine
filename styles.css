@@ -2,7 +2,7 @@
   margin: 0;
   overflow: hidden;
   font-family: 'Arial', sans-serif;
-  background-color: #fce4ec; /* Light pink background color */
+  background-color: #C39FE5;  /* Light pink background color */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -17,7 +17,7 @@ h1 {
   left: 0;
   width: 100%;
   padding: 20px;
-  background-color: #333; /* Dark background color */
+  background-color: red; /* Dark background color */
   color: #fff; /* White text color */
   text-align: center;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
@@ -25,7 +25,7 @@ h1 {
 
 #yesButton {
   padding: 15px 30px;
-  background-color: #ff4081; /* Pink button color */
+  background-color: #7529d0; /* Pink button color */
   color: #ffffff; /* White text color */
   border: none;
   border-radius: 5px;
@@ -35,11 +35,11 @@ h1 {
   transition: background-color 0.3s;
 }
 #yesButton:hover {
-  background-color: #ff6fba; /* Lighter pink on hover */
+  background-color: #9b30de; /* Lighter pink on hover */
 }
 
 #yesButton:active {
-  background-color: #ff3366; /* Darker pink on click */
+  background-color: #7529d0; /* Darker pink on click */
 }
 #yesButton.clicked {
   animation: heartBeat 0.8s ease-in-out;
@@ -83,7 +83,7 @@ h1 {
   margin: 0;
   overflow: hidden;
   font-family: 'Arial', sans-serif;
-  background-color: #fce4ec; /* Light pink background color */
+  background-color: #0f0b0c; /* Light pink background color */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -114,7 +114,7 @@ h1 {
   background-image: url('wallpaper.jpg'); /* Replace 'YOUR_IMAGE_URL' with your actual image URL */
   background-size: cover;
   background-position: center;
-  color: #fff; /* Set text color for better visibility on the background image */
+  color: #1d1414; /* Set text color for better visibility on the background image */
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   width: 100vw; /* Set the maximum width of the form */
@@ -137,7 +137,7 @@ h1 {
   margin-bottom: 10px;
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid #ddd; /* Border between list items */
+  border-bottom: 1px solid #1a1414; /* Border between list items */
   padding-bottom: 15px; /* Padding below each list item */
 }
 
